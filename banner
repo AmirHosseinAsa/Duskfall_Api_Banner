@@ -1,3 +1,10 @@
-{
+[
+  {
+    "ClickableLink": "url_to_link",
+    "BannerImageUrl": "https://x.com/ZodipaGames",
+    "BannerOrder": 1
+  }
+]
 
-}
+
+
