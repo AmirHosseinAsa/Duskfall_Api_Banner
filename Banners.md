@@ -1,6 +1,7 @@
 [
     {
-        "BannerImageUrl": "https://community.blaze.today/uploads/default/original/2X/f/fd323be6f17fe686f231267a063e5b2bf175ad1d.png",
+        "ClickableLink": "https://x.com/ZodipaGames",
+        "BannerImageUrl": "https://github.com/user-attachments/assets/07752ff3-198a-4807-bca1-9f9fa7fe754d",
         "BannerOrder": 1
     },
     {
